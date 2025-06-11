@@ -15,7 +15,7 @@ A simple, responsive real-time weather app built using **HTML**, **CSS**, and **
 
 ## 🎥 Demo
 
-👉 Live Demo: *\[your live URL here]* (after you deploy!)
+👉 Live Demo: https://github.com/BolluSnigdha/Weather/blob/main/working.mp4
 
 ## 🖥️ Screenshots
 
